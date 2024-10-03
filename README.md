@@ -4,7 +4,7 @@
 
 This project focuses on building an IoT system for a **smart refrigerator** using a combination of **Convolutional Neural Networks (CNNs)** for image classification and **Small Language Models (SLMs)** for user interaction. The goal is to provide smart recipe suggestions and optimize ingredient usage based on real-time data from the fridge, ensuring user privacy and offline capabilities.
 
-![Smart Fridge Project](assets/smart_fridge.png)
+![Smart Fridge Project](assets/smart-fridge-dalle.jpg)
 
 The system consists of two main components:
 1. **Image Classification with CNN**: A camera inside the fridge captures images of the ingredients, and a CNN model is used to classify and detect the ingredients (e.g., tomatoes, cucumbers, eggs).
